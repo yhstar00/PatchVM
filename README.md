@@ -1,2 +1,2 @@
 # PatchVM
-[![Watch the video](https://p4.ssl.qhimg.com/t01c613822c011908fe.jpg)](https://youtu.be/3Ljpui9ObgE)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/3Ljpui9ObgE)
